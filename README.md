@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachintha Dilshan Chandradasa</h1>
 <h4 align="center">A Full Stack Developer from Sri Lanka</h4>
+<h4 align="center">'<A Long Journey into the Future Through Technology/>'</h4>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dila2004&label=Profile%20views&color=0e75b6&style=flat" alt="dila2004" /> </p>
